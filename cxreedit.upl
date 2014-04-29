@@ -1,0 +1,51 @@
+[DSP upload]
+File Name=cxreedit.zip
+Replace File=
+File Status=Freeware
+Full Source Included=Y
+Delphi 1.0x=N
+Delphi 2.0x=N
+Delphi 3.0x=N
+Delphi 4.0x=N
+Delphi 5.0x=Y
+Delphi 6.0x=Y
+C++ Builder 1.0x=N
+C++ Builder 3.0x=N
+C++ Builder 4.0x=N
+C++ Builder 5.0x=N
+Kylix=N
+Version=1.7
+count=3
+1=     TREEdit v 1.7
+2=     Regular Expression Edit based on TRegExpr library 0.942
+3=     
+Note=     TREEdit 
+Additional info=
+Category=Visible Components
+Platform=
+Group=Component/Code
+     Regular Expression Edit based on TRegExpr library 0.942
+     v 1.7
+[Versions available]
+Delphi 1.0x=
+Delphi 2.0x=
+Delphi 3.0x=
+Delphi 4.0x=
+Delphi 5.0x=
+Delphi 6.0x=
+C++ Builder 1.0x=
+C++ Builder 3.0x=
+C++ Builder 4.0x=
+C++ Builder 5.0x=
+Kylix=
+[DSP Support]
+DSP Support=Y
+[Uploader_1]
+Author name=Xing Chen
+Contact=Xing Chen
+Author E-mail=cxlib@cxlib.com
+Author URL=http://www.cxlib.com
+count=1
+1=Author of CodeExpress, for more detail ,look http://www.cxlib.com
+Author Section=VCL creator
+UpdateDSP=Y
